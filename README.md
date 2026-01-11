@@ -8,7 +8,6 @@ The focus of this project is **agent orchestration and reasoning**, not just pro
 
 ## 🏗 Architecture Overview
 
-![Architecture](screenshots/architecture.png)
 
 **Components:**
 - **Streamlit UI** – User-facing interface
@@ -58,13 +57,13 @@ Example trace outputs are shown below.
 ## 📸 Screenshots
 
 ### Streamlit UI
-![UI Demo](screenshots/ui-demo.png)
+![UI Demo](https://github.com/ibrahim-02/insurance-bedrock-agent/blob/854716c8d9bd39948e672a58065942189afb6437/Screenshoots/Streamlit%20UI.png)
 
 ### Action Group Invocation Trace
-![Agent Trace - Action Group](screenshots/agent-trace-action-group.png)
+![Agent Trace - Action Group](https://github.com/ibrahim-02/insurance-bedrock-agent/blob/0587d8d029c18f416ed9cabd0705c2b9b6affe72/Screenshoots/agent-trace-action-group.png)
 
 ### Knowledge Base Retrieval Trace
-![Agent Trace - KB](screenshots/agent-trace-kb.png)
+![Agent Trace - KB](https://github.com/ibrahim-02/insurance-bedrock-agent/blob/main/Screenshoots/kb-console-testing.png)
 
 ---
 
