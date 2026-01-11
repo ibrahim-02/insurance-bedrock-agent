@@ -67,8 +67,4 @@ Example trace outputs are shown below.
 
 ---
 
-## 🚀 How to Run Locally
 
-```bash
-pip install -r requirements.txt
-python -m streamlit run streamlit/bedrock_streamlit.py
